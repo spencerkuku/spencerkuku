@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,laravel,bootstrap,tailwind,c,c++,cloudflare,docker,git,github,kali,linux,ubuntu,mysql,nginx,apache,vite,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,laravel,tailwind,docker,git,linux,kali,cloudflare,wordpress)](https://skillicons.dev)
 
 <!--
 **spencerkuku/spencerkuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
